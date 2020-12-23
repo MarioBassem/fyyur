@@ -24,9 +24,8 @@ Your job is to build out the data models to power the API endpoints for the Fyyu
 
 ## Tech Stack (Dependencies)
 
-### 1. Backend Dependencies
+### Backend Dependencies
 Our tech stack will include the following:
- * **virtualenv** as a tool to create isolated Python environments
  * **SQLAlchemy ORM** to be our ORM library of choice
  * **PostgreSQL** as our database of choice
  * **Python3** and **Flask** as our server language and server framework
