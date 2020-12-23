@@ -1,5 +1,6 @@
 
 This web application is an implementation of one of the projects at Udacity's advanced web application nanodegree program. 
+-----
 
 It was a nice experience, and I learned alot.
 
@@ -11,7 +12,6 @@ Some of the stuff I got to do were:
 	5. Serve venue and artist detail pages, powering the `<venue|artist>/<id>` endpoints that power the detail page.
 
 More features will be added over time.
------
 
 Fyyur
 -----
