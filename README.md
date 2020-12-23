@@ -1,7 +1,7 @@
 
 This web application is an implementation of one of the projects at Udacity's advanced web application nanodegree program. 
 
-It was a nice experience and I learned alot.
+It was a nice experience, and I learned alot.
 
 Some of the stuff I got to do were:
 	1. Using SQLAlchemy for setting up normalized models for the objects supported in the app.
