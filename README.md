@@ -5,11 +5,11 @@ This web application is an implementation of one of the projects at Udacity's ad
 It was a nice experience, and I learned alot.
 
 Some of the stuff I got to do were:
-	1. Using SQLAlchemy for setting up normalized models for the objects supported in the app.
-	2. Implementing form submissions for creating new Venues, Artist, and Shows.
-	3. Implementing the controlleres for listing venues, artists, and shows.
-	4. Implementing search, powering the `/search` endpoints that serve the application's search functionalities.
-	5. Serve venue and artist detail pages, powering the `<venue|artist>/<id>` endpoints that power the detail page.
+ * Using SQLAlchemy for setting up normalized models for the objects supported in the app.
+ * Implementing form submissions for creating new Venues, Artist, and Shows.
+ * Implementing the controlleres for listing venues, artists, and shows.
+ * Implementing search, powering the `/search` endpoints that serve the application's search functionalities.
+ * Serve venue and artist detail pages, powering the `<venue|artist>/<id>` endpoints that power the detail page.
 
 More features will be added over time.
 
