@@ -1,1 +1,1 @@
-web: gunicorn fyyurapplication
+web: gunicorn app.py
