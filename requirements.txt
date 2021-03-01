@@ -4,6 +4,5 @@ flask-moment
 flask-wtf
 gunicorn
 flask_sqlalchemy
-flask
 flask_migrate
-forms
+psycopg2-binary
